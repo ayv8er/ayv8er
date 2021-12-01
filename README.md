@@ -1,9 +1,5 @@
 ### Hi there 👋, I'm Richard
 
-<!--
-**ayv8er/ayv8er** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a Cryptocurrency Index app where users can 'favorite' their coins without logging in or registering.
 - 🌱 I’m currently learning how to fly under Instrument Flight Rules so I can fly my toddler through the clouds.
@@ -13,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Text/Message, Email, Phone
 - 😄 Pronouns: Him/He
 - ⚡ Fun fact: I was born in Hawaii on December 7.
--->
+
