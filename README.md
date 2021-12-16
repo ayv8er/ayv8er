@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Richard
 
 
-- 🔭 I’m currently working on a Cryptocurrency Index app where users can 'favorite' their coins without logging in or registering.
+- 🔭 I’m currently working on a project for Underdog Developers, a non profit project you should definitely look into!
 - 🌱 I’m currently learning how to fly under Instrument Flight Rules so I can fly my toddler through the clouds.
 - 👯 I’m looking to collaborate with great people, everyday.
 - 🤔 I’m looking for help with being a better human being. 
