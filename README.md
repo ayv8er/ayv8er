@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Richard</h1>
+
 - 🔭 I’m currently working on [a Cryptocurrency Market Index](https://github.com/ayv8er/cryptomarketinfo)
 
 - 🌱 I’m currently learning **React Native**
