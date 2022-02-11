@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfoliowebsite-flax.vercel.app/projects](https://portfoliowebsite-flax.vercel.app/projects)
 
-- 💬 Ask me about **Bitcoin, we'll have fun.**
+- 💬 Ask me about **Bitcoin, we'll talk for hours.**
 
 - 📫 How to reach me **n24512@protonmail.com**
 
