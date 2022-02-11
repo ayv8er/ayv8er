@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [a Cryptocurrency Market Index](https://github.com/ayv8er/cryptomarketinfo)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://portfoliowebsite-flax.vercel.app/projects](https://portfoliowebsite-flax.vercel.app/projects)
 
