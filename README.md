@@ -1,16 +1,12 @@
 <h1 align="center">Hi 👋, I'm Richard</h1>
 
-- 🔭 I’m currently working on [a Cryptocurrency Market Index](https://github.com/ayv8er/cryptomarketinfo)
-
 - 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://portfoliowebsite-flax.vercel.app/projects](https://portfoliowebsite-flax.vercel.app/projects)
 
-- 💬 Ask me about **Bitcoin, we'll talk for hours.**
-
 - 📫 How to reach me **n24512@protonmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1x4ue55nsDxrvl_omtK9hxaPQGdLdXgLN/view](https://drive.google.com/file/d/1x4ue55nsDxrvl_omtK9hxaPQGdLdXgLN/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/19sJJmQZFAZ7oxByEPkijBfKvarIQ_g3v/view?usp=sharing](https://drive.google.com/file/d/19sJJmQZFAZ7oxByEPkijBfKvarIQ_g3v/view?usp=sharing)
 
 - ⚡ Fun fact **I like to fly airplanes!**
 
