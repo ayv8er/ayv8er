@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Richard</h1>
 
-- 🌱 I’m currently learning **React Native, Solidity, Web3.js**
+- 🌱 I’m currently learning NextJS
 
 - 👨‍💻 All of my projects are available at [https://portfoliowebsite-flax.vercel.app/projects](https://portfoliowebsite-flax.vercel.app/projects)
 
