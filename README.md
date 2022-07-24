@@ -2,11 +2,11 @@
 
 - 🌱 I’m currently learning NextJS
 
-- 👨‍💻 All of my projects are available at [https://portfoliowebsite-flax.vercel.app/projects](https://portfoliowebsite-flax.vercel.app/projects)
+- 👨‍💻 All of my projects are available at [my website](https://portfoliowebsite-flax.vercel.app/projects)
 
 - 📫 How to reach me **n24512@protonmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19sJJmQZFAZ7oxByEPkijBfKvarIQ_g3v/view?usp=sharing](https://drive.google.com/file/d/19sJJmQZFAZ7oxByEPkijBfKvarIQ_g3v/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1hlnrrxr4JLI24sLyqek4FOPYPfDgbQRK/view?usp=sharing](https://drive.google.com/file/d/1hlnrrxr4JLI24sLyqek4FOPYPfDgbQRK/view?usp=sharing)
 
 - ⚡ Fun fact **I like to fly airplanes!**
 
