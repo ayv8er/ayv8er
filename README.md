@@ -4,6 +4,4 @@
 
 - 👨‍💻 All of my projects are available at [my website](https://portfoliowebsite-flax.vercel.app/projects)
 
-- 📫 How to reach me **n24512@protonmail.com**
-
 - ⚡ Fun fact **I like to fly airplanes!**
