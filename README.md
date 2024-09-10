@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Richard</h1>
-<h1 align="center">Magic Labs | DevRel</h1>
+<h1 align="center">Magic Labs | Solutions Eng</h1>
 
 <h2>What I believe in</h2>
 <ul>
