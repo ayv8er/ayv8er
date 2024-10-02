@@ -16,3 +16,6 @@
     <p>I believe Magic will lead us there.</p>    
   </li>
 </ul>
+
+<h2>Magic YouTube Channel - Video Guides</h2>
+<p>https://www.youtube.com/@Magiclabs/videos</p>
